@@ -1,4 +1,4 @@
-const URL_API = "http://localhost:3000/materia/"
+const URL_API = "https://backend-render-n7h9.onrender.com/materia/"
 const URL_VISUALIZAR = "visualizarMateria.html"
 const URL_ADICIONAR = "formularioMateria.html?acao=adicionar"
 const URL_ATUALIZAR = "formularioMateria.html?acao=atualizar"
